@@ -2,7 +2,7 @@
 
 Este projeto coleta informações sobre butecos participantes do Comida di Buteco em Belo Horizonte.
 
-# Live @ https://vicctor-b.github.io/comida-di-buteco-crawler/
+## Live @ https://vicctor-b.github.io/comida-di-buteco-crawler/
 
 ## Configuração
 1. Clone o repositório.
